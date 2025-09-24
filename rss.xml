@@ -5,7 +5,7 @@
     <link>https://USERNAME.github.io/REPO/</link>
     <description>Approved tweets feed for Mixpost scheduling</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Sep 2025 20:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 20:45:21 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://USERNAME.github.io/REPO/rss.xml" rel="self" type="application/rss+xml" />
 
@@ -199,6 +199,68 @@ fed them into Gemini Flash w/ brand assets
 
 most marketers spend 5-7 hrs on ONE creative
 we're doing 100x the output, 2x the results 🤯]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Just witnessed the future of content creation.
+
+AI mapped a TikTok automation pipeline in 30 seconds:
+
+Viral hooks → AI backgrounds → full edits → done.
+
+While you make 1 video/day, this system ships 50.
+
+Build systems, not bottlenecks.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recOEgMRZkpL35IGO</link>
+      <guid isPermaLink="false">recOEgMRZkpL35IGO</guid>
+      <pubDate>Wed, 24 Sep 2025 20:45:21 GMT</pubDate>
+      <description><![CDATA[Just witnessed the future of content creation.
+
+AI mapped a TikTok automation pipeline in 30 seconds:
+
+Viral hooks → AI backgrounds → full edits → done.
+
+While you make 1 video/day, this system ships 50.
+
+Build systems, not bottlenecks.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Prototyped a fully automated TikTok factory last night: viral hook → AI background → auto-caption → render. 45‑min sprint to wire the pipeline. Lesson: speed > polish. Ship the scaffold, then tune prompts. Want the steps? I’ll post the checklist if there’s interest.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recRdBPRxXRGZyUS0</link>
+      <guid isPermaLink="false">recRdBPRxXRGZyUS0</guid>
+      <pubDate>Wed, 24 Sep 2025 20:05:48 GMT</pubDate>
+      <description><![CDATA[Prototyped a fully automated TikTok factory last night: viral hook → AI background → auto-caption → render. 45‑min sprint to wire the pipeline. Lesson: speed > polish. Ship the scaffold, then tune prompts. Want the steps? I’ll post the checklist if there’s interest.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[An AI assistant just gave me a 30s executive brief: calendar triage, 3 critical emails, and content metrics. Most founders burn 2+ hours to get that clarity. This is the $10M productivity unlock: one feed, zero noise.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recXHMF2LrnDSgO6g</link>
+      <guid isPermaLink="false">recXHMF2LrnDSgO6g</guid>
+      <pubDate>Wed, 24 Sep 2025 20:08:04 GMT</pubDate>
+      <description><![CDATA[An AI assistant just gave me a 30s executive brief: calendar triage, 3 critical emails, and content metrics. Most founders burn 2+ hours to get that clarity. This is the $10M productivity unlock: one feed, zero noise.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[AI assistant running a creator's ops:
+- calendar blocks
+- content pipeline
+- performance analytics
+
+Most are still posting manually.
+
+They're building a fully automated TikTok factory.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recZJ0TvQKS7D4SsW</link>
+      <guid isPermaLink="false">recZJ0TvQKS7D4SsW</guid>
+      <pubDate>Wed, 24 Sep 2025 20:09:32 GMT</pubDate>
+      <description><![CDATA[AI assistant running a creator's ops:
+- calendar blocks
+- content pipeline
+- performance analytics
+
+Most are still posting manually.
+
+They're building a fully automated TikTok factory.]]></description>
     </item>
   </channel>
 </rss>
