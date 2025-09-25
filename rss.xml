@@ -5,7 +5,7 @@
     <link>https://USERNAME.github.io/REPO/</link>
     <description>Approved tweets feed for Mixpost scheduling</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Sep 2025 20:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 20:30:27 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://USERNAME.github.io/REPO/rss.xml" rel="self" type="application/rss+xml" />
 
@@ -261,6 +261,22 @@ They're building a fully automated TikTok factory.]]></title>
 Most are still posting manually.
 
 They're building a fully automated TikTok factory.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Built a Gossip Girl–style meme pipeline that turns 2AM support chaos into TikToks while I sleep. Hook = relatable pain, punchline = product does the work, last frame = CTA. 80% automation, 20% taste. Shipping 3 today.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recxlN25XA6v23tAr</link>
+      <guid isPermaLink="false">recxlN25XA6v23tAr</guid>
+      <pubDate>Thu, 25 Sep 2025 20:10:36 GMT</pubDate>
+      <description><![CDATA[Built a Gossip Girl–style meme pipeline that turns 2AM support chaos into TikToks while I sleep. Hook = relatable pain, punchline = product does the work, last frame = CTA. 80% automation, 20% taste. Shipping 3 today.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Built an automated TikTok pipeline: steal viral templates (Gossip Girl), swap in customer support pain points (2am "can you...?" messages), add a clear CTA. 30 mins/day → 3 clips. Relatable, repeatable, and it actually converts while you sleep.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recfMAFDjiGWvtCzg</link>
+      <guid isPermaLink="false">recfMAFDjiGWvtCzg</guid>
+      <pubDate>Thu, 25 Sep 2025 20:30:27 GMT</pubDate>
+      <description><![CDATA[Built an automated TikTok pipeline: steal viral templates (Gossip Girl), swap in customer support pain points (2am "can you...?" messages), add a clear CTA. 30 mins/day → 3 clips. Relatable, repeatable, and it actually converts while you sleep.]]></description>
     </item>
   </channel>
 </rss>
