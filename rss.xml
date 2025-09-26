@@ -5,7 +5,7 @@
     <link>https://USERNAME.github.io/REPO/</link>
     <description>Approved tweets feed for Mixpost scheduling</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Sep 2025 20:30:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 20:29:41 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://USERNAME.github.io/REPO/rss.xml" rel="self" type="application/rss+xml" />
 
@@ -277,6 +277,60 @@ They're building a fully automated TikTok factory.]]></description>
       <guid isPermaLink="false">recfMAFDjiGWvtCzg</guid>
       <pubDate>Thu, 25 Sep 2025 20:30:27 GMT</pubDate>
       <description><![CDATA[Built an automated TikTok pipeline: steal viral templates (Gossip Girl), swap in customer support pain points (2am "can you...?" messages), add a clear CTA. 30 mins/day → 3 clips. Relatable, repeatable, and it actually converts while you sleep.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Lawrence just built the most insane AI ops system I’ve seen.
+
+10‑min morning briefs that cover:
+→ Calendar optimization
+→ Content gap scan
+→ Billing automation
+→ Performance breakdowns
+
+While you’re still checking Instagram…
+
+He’s running a MACHINE.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recFMG9SrpL1XTJdG</link>
+      <guid isPermaLink="false">recFMG9SrpL1XTJdG</guid>
+      <pubDate>Fri, 26 Sep 2025 20:22:19 GMT</pubDate>
+      <description><![CDATA[Lawrence just built the most insane AI ops system I’ve seen.
+
+10‑min morning briefs that cover:
+→ Calendar optimization
+→ Content gap scan
+→ Billing automation
+→ Performance breakdowns
+
+While you’re still checking Instagram…
+
+He’s running a MACHINE.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Just wrapped the workflow: automated goth-girl slideshow pipeline for TikTok 🖤
+→ Clip selector + style overlay
+→ Batch render
+→ API posting
+Input: 10 min morning brain dump. Output: a week of posts.
+Systems > motivation.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/rec5E7VWntzuKA6dM</link>
+      <guid isPermaLink="false">rec5E7VWntzuKA6dM</guid>
+      <pubDate>Fri, 26 Sep 2025 20:24:45 GMT</pubDate>
+      <description><![CDATA[Just wrapped the workflow: automated goth-girl slideshow pipeline for TikTok 🖤
+→ Clip selector + style overlay
+→ Batch render
+→ API posting
+Input: 10 min morning brain dump. Output: a week of posts.
+Systems > motivation.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[This is what real automation looks like: morning thoughts → viral TikToks. Lawrence built a system; you’re still uploading 1 video/week. 50+ pieces from a single input. The gap widens every day you delay.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recAK1mz3I6RHE5ju</link>
+      <guid isPermaLink="false">recAK1mz3I6RHE5ju</guid>
+      <pubDate>Fri, 26 Sep 2025 20:29:41 GMT</pubDate>
+      <description><![CDATA[This is what real automation looks like: morning thoughts → viral TikToks. Lawrence built a system; you’re still uploading 1 video/week. 50+ pieces from a single input. The gap widens every day you delay.]]></description>
     </item>
   </channel>
 </rss>
