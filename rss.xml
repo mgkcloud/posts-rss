@@ -5,7 +5,7 @@
     <link>https://USERNAME.github.io/REPO/</link>
     <description>Approved tweets feed for Mixpost scheduling</description>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Sep 2025 20:29:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 20:11:01 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://USERNAME.github.io/REPO/rss.xml" rel="self" type="application/rss+xml" />
 
@@ -331,6 +331,14 @@ Systems > motivation.]]></description>
       <guid isPermaLink="false">recAK1mz3I6RHE5ju</guid>
       <pubDate>Fri, 26 Sep 2025 20:29:41 GMT</pubDate>
       <description><![CDATA[This is what real automation looks like: morning thoughts → viral TikToks. Lawrence built a system; you’re still uploading 1 video/week. 50+ pieces from a single input. The gap widens every day you delay.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Quick reset in Warburton’s redwoods with a friend who’d never seen a forest. The canopy is a literal system: living roof → cooler air, trapped moisture, muffled noise. 2 hours off-grid returned more clarity than 20 tabs. Best ops hack today: step outside, then ship.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recf9GI0LomJmtlKJ</link>
+      <guid isPermaLink="false">recf9GI0LomJmtlKJ</guid>
+      <pubDate>Sun, 28 Sep 2025 20:11:01 GMT</pubDate>
+      <description><![CDATA[Quick reset in Warburton’s redwoods with a friend who’d never seen a forest. The canopy is a literal system: living roof → cooler air, trapped moisture, muffled noise. 2 hours off-grid returned more clarity than 20 tabs. Best ops hack today: step outside, then ship.]]></description>
     </item>
   </channel>
 </rss>
