@@ -5,7 +5,7 @@
     <link>https://USERNAME.github.io/REPO/</link>
     <description>Approved tweets feed for Mixpost scheduling</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2025 20:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 20:16:04 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://USERNAME.github.io/REPO/rss.xml" rel="self" type="application/rss+xml" />
 
@@ -339,6 +339,34 @@ Systems > motivation.]]></description>
       <guid isPermaLink="false">recf9GI0LomJmtlKJ</guid>
       <pubDate>Sun, 28 Sep 2025 20:11:01 GMT</pubDate>
       <description><![CDATA[Quick reset in Warburton’s redwoods with a friend who’d never seen a forest. The canopy is a literal system: living roof → cooler air, trapped moisture, muffled noise. 2 hours off-grid returned more clarity than 20 tabs. Best ops hack today: step outside, then ship.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[HOLY SHIT.
+
+Just watched my AI assistant Lawrence walk someone through their entire business ops in 10 minutes.
+
+Calendar → Payment alerts → Content gaps → Organic growth
+
+While they're literally standing in a REDWOOD FOREST.
+
+This is the future of productivity.
+
+We're building systems that work even when you disconnect.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/rec7XscHRD6varcjI</link>
+      <guid isPermaLink="false">rec7XscHRD6varcjI</guid>
+      <pubDate>Sun, 28 Sep 2025 20:16:04 GMT</pubDate>
+      <description><![CDATA[HOLY SHIT.
+
+Just watched my AI assistant Lawrence walk someone through their entire business ops in 10 minutes.
+
+Calendar → Payment alerts → Content gaps → Organic growth
+
+While they're literally standing in a REDWOOD FOREST.
+
+This is the future of productivity.
+
+We're building systems that work even when you disconnect.]]></description>
     </item>
   </channel>
 </rss>
