@@ -5,7 +5,7 @@
     <link>https://USERNAME.github.io/REPO/</link>
     <description>Approved tweets feed for Mixpost scheduling</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2025 20:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 20:20:09 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://USERNAME.github.io/REPO/rss.xml" rel="self" type="application/rss+xml" />
 
@@ -367,6 +367,34 @@ While they're literally standing in a REDWOOD FOREST.
 This is the future of productivity.
 
 We're building systems that work even when you disconnect.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Early days, but this creative loop is tight: 1) Pull proven ads from competitor libraries 2) Swap in your brand assets via Gemini 3) Ship static variants as Meta ads 4) Watch CTR/CPA and iterate. It’s not theft—it’s transfer learning. Speed > genius.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recjtlYKE1ewmHRHU</link>
+      <guid isPermaLink="false">recjtlYKE1ewmHRHU</guid>
+      <pubDate>Wed, 01 Oct 2025 20:11:06 GMT</pubDate>
+      <description><![CDATA[Early days, but this creative loop is tight: 1) Pull proven ads from competitor libraries 2) Swap in your brand assets via Gemini 3) Ship static variants as Meta ads 4) Watch CTR/CPA and iterate. It’s not theft—it’s transfer learning. Speed > genius.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Best shortcut to high-performing ads:
+- Start with proven competitor DNA (ad library).
+- Fuse your brand assets.
+- Let Gemini remix variants.
+- Ship as static Meta ads.
+- Track one metric (CPA or CTR).
+Repeat daily. Creative velocity beats originality.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recXhhgmAXXBWN0EG</link>
+      <guid isPermaLink="false">recXhhgmAXXBWN0EG</guid>
+      <pubDate>Wed, 01 Oct 2025 20:20:09 GMT</pubDate>
+      <description><![CDATA[Best shortcut to high-performing ads:
+- Start with proven competitor DNA (ad library).
+- Fuse your brand assets.
+- Let Gemini remix variants.
+- Ship as static Meta ads.
+- Track one metric (CPA or CTR).
+Repeat daily. Creative velocity beats originality.]]></description>
     </item>
   </channel>
 </rss>
