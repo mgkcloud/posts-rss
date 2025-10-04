@@ -5,7 +5,7 @@
     <link>https://USERNAME.github.io/REPO/</link>
     <description>Approved tweets feed for Mixpost scheduling</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 20:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 19:22:43 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://USERNAME.github.io/REPO/rss.xml" rel="self" type="application/rss+xml" />
 
@@ -370,11 +370,27 @@ We're building systems that work even when you disconnect.]]></description>
     </item>
 
     <item>
+      <title><![CDATA[Your roadmap isn’t a wishlist, it’s a sales plan. Work backwards from a revenue target: identify 3 customer pains → map 1 feature per pain → ship smallest version in 7 days → talk to 10 users → keep only what moves the number. Strategy = subtraction.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recQDVSmkyN3wsAMr</link>
+      <guid isPermaLink="false">recQDVSmkyN3wsAMr</guid>
+      <pubDate>Tue, 30 Sep 2025 20:16:27 GMT</pubDate>
+      <description><![CDATA[Your roadmap isn’t a wishlist, it’s a sales plan. Work backwards from a revenue target: identify 3 customer pains → map 1 feature per pain → ship smallest version in 7 days → talk to 10 users → keep only what moves the number. Strategy = subtraction.]]></description>
+    </item>
+
+    <item>
       <title><![CDATA[Early days, but this creative loop is tight: 1) Pull proven ads from competitor libraries 2) Swap in your brand assets via Gemini 3) Ship static variants as Meta ads 4) Watch CTR/CPA and iterate. It’s not theft—it’s transfer learning. Speed > genius.]]></title>
       <link>https://USERNAME.github.io/REPO/t/recjtlYKE1ewmHRHU</link>
       <guid isPermaLink="false">recjtlYKE1ewmHRHU</guid>
       <pubDate>Wed, 01 Oct 2025 20:11:06 GMT</pubDate>
       <description><![CDATA[Early days, but this creative loop is tight: 1) Pull proven ads from competitor libraries 2) Swap in your brand assets via Gemini 3) Ship static variants as Meta ads 4) Watch CTR/CPA and iterate. It’s not theft—it’s transfer learning. Speed > genius.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Shortcut to high-performing ads: steal the skeleton, swap the flesh. Pull top ads from libraries -> extract visual beats -> remix with your product shots/brand kit -> ship -> read CTR/CPA -> iterate. Legal R&D > vibes.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recw7ObDiERIvd54e</link>
+      <guid isPermaLink="false">recw7ObDiERIvd54e</guid>
+      <pubDate>Wed, 01 Oct 2025 20:12:46 GMT</pubDate>
+      <description><![CDATA[Shortcut to high-performing ads: steal the skeleton, swap the flesh. Pull top ads from libraries -> extract visual beats -> remix with your product shots/brand kit -> ship -> read CTR/CPA -> iterate. Legal R&D > vibes.]]></description>
     </item>
 
     <item>
@@ -395,6 +411,30 @@ Repeat daily. Creative velocity beats originality.]]></title>
 - Ship as static Meta ads.
 - Track one metric (CPA or CTR).
 Repeat daily. Creative velocity beats originality.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Most 'busy' work is comfort. Measure days by shipped outcomes, not hours. If nothing shipped, it's not progress.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recw5Dsz0hZgQybsN</link>
+      <guid isPermaLink="false">recw5Dsz0hZgQybsN</guid>
+      <pubDate>Fri, 03 Oct 2025 20:08:14 GMT</pubDate>
+      <description><![CDATA[Most 'busy' work is comfort. Measure days by shipped outcomes, not hours. If nothing shipped, it's not progress.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Speed without a feedback loop is just chaos. Ship, instrument, review, adjust. Weekly. You don't need 'move fast', you need 'learn fast'.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recKaxJ8F9P6T986D</link>
+      <guid isPermaLink="false">recKaxJ8F9P6T986D</guid>
+      <pubDate>Fri, 03 Oct 2025 20:11:33 GMT</pubDate>
+      <description><![CDATA[Speed without a feedback loop is just chaos. Ship, instrument, review, adjust. Weekly. You don't need 'move fast', you need 'learn fast'.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Shipped: a Meta ads static-image remixer. Feed it your brand assets or product shots and it blends them with proven brand styles using the latest gen models. Result: ~20 fresh creatives in 5 minutes. Tight loop > big launch. Want a 60s tutorial of the workflow?]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recJzYO3T2SrEhw3g</link>
+      <guid isPermaLink="false">recJzYO3T2SrEhw3g</guid>
+      <pubDate>Sat, 04 Oct 2025 19:22:43 GMT</pubDate>
+      <description><![CDATA[Shipped: a Meta ads static-image remixer. Feed it your brand assets or product shots and it blends them with proven brand styles using the latest gen models. Result: ~20 fresh creatives in 5 minutes. Tight loop > big launch. Want a 60s tutorial of the workflow?]]></description>
     </item>
   </channel>
 </rss>
