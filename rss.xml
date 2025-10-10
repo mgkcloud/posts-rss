@@ -5,7 +5,7 @@
     <link>https://USERNAME.github.io/REPO/</link>
     <description>Approved tweets feed for Mixpost scheduling</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Oct 2025 19:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 19:10:37 GMT</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://USERNAME.github.io/REPO/rss.xml" rel="self" type="application/rss+xml" />
 
@@ -280,6 +280,30 @@ They're building a fully automated TikTok factory.]]></description>
     </item>
 
     <item>
+      <title><![CDATA[just watched someone speedrun their morning standup & it's literally insane 💀
+→ AI assistant handles calendar, content metrics, engagement stats
+→ entire workflow optimized for 10min or less
+→ automation brain go brrr 🤖
+hit ♥️ if you're also obsessed with systems]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recPPYbU5nCsQRBVe</link>
+      <guid isPermaLink="false">recPPYbU5nCsQRBVe</guid>
+      <pubDate>Fri, 26 Sep 2025 20:09:33 GMT</pubDate>
+      <description><![CDATA[just watched someone speedrun their morning standup & it's literally insane 💀
+→ AI assistant handles calendar, content metrics, engagement stats
+→ entire workflow optimized for 10min or less
+→ automation brain go brrr 🤖
+hit ♥️ if you're also obsessed with systems]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Built a goth-girl slideshow pipeline for our app’s TikTok: 30s morning input → auto-styled clips → scheduled posts. Small input, big output. Shipping systems > “motivating” yourself to post.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recceLibVtECcCCfE</link>
+      <guid isPermaLink="false">recceLibVtECcCCfE</guid>
+      <pubDate>Fri, 26 Sep 2025 20:17:35 GMT</pubDate>
+      <description><![CDATA[Built a goth-girl slideshow pipeline for our app’s TikTok: 30s morning input → auto-styled clips → scheduled posts. Small input, big output. Shipping systems > “motivating” yourself to post.]]></description>
+    </item>
+
+    <item>
       <title><![CDATA[Lawrence just built the most insane AI ops system I’ve seen.
 
 10‑min morning briefs that cover:
@@ -430,11 +454,35 @@ Repeat daily. Creative velocity beats originality.]]></description>
     </item>
 
     <item>
+      <title><![CDATA[Shipped: Meta ad static image creator. Drop in brand assets, get 20+ on-brand variations in minutes. Tight loop > big launch. If you iterate creatives daily, this is an unfair advantage. Want a 60s tutorial?]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recOGXjbkLRG42AaW</link>
+      <guid isPermaLink="false">recOGXjbkLRG42AaW</guid>
+      <pubDate>Sat, 04 Oct 2025 19:11:51 GMT</pubDate>
+      <description><![CDATA[Shipped: Meta ad static image creator. Drop in brand assets, get 20+ on-brand variations in minutes. Tight loop > big launch. If you iterate creatives daily, this is an unfair advantage. Want a 60s tutorial?]]></description>
+    </item>
+
+    <item>
       <title><![CDATA[Shipped: a Meta ads static-image remixer. Feed it your brand assets or product shots and it blends them with proven brand styles using the latest gen models. Result: ~20 fresh creatives in 5 minutes. Tight loop > big launch. Want a 60s tutorial of the workflow?]]></title>
       <link>https://USERNAME.github.io/REPO/t/recJzYO3T2SrEhw3g</link>
       <guid isPermaLink="false">recJzYO3T2SrEhw3g</guid>
       <pubDate>Sat, 04 Oct 2025 19:22:43 GMT</pubDate>
       <description><![CDATA[Shipped: a Meta ads static-image remixer. Feed it your brand assets or product shots and it blends them with proven brand styles using the latest gen models. Result: ~20 fresh creatives in 5 minutes. Tight loop > big launch. Want a 60s tutorial of the workflow?]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Speed compounds. Ship the small thing today, learn, and ship the better thing tomorrow. Most teams lose years chasing perfect; operators win by iterating weekly with a clear scoreboard and brutal customer feedback.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/reckcFBZ0HNeIj6QT</link>
+      <guid isPermaLink="false">reckcFBZ0HNeIj6QT</guid>
+      <pubDate>Mon, 06 Oct 2025 19:06:13 GMT</pubDate>
+      <description><![CDATA[Speed compounds. Ship the small thing today, learn, and ship the better thing tomorrow. Most teams lose years chasing perfect; operators win by iterating weekly with a clear scoreboard and brutal customer feedback.]]></description>
+    </item>
+
+    <item>
+      <title><![CDATA[Onboarding is part of the product. If a user can't hit first value in under 10 minutes, you don't have product-market fit - you have patience-market fit. Cut steps, prefill smart defaults, remove choices. Every extra field is a drop-off.]]></title>
+      <link>https://USERNAME.github.io/REPO/t/recjfiGOt8ky13Job</link>
+      <guid isPermaLink="false">recjfiGOt8ky13Job</guid>
+      <pubDate>Mon, 06 Oct 2025 19:10:37 GMT</pubDate>
+      <description><![CDATA[Onboarding is part of the product. If a user can't hit first value in under 10 minutes, you don't have product-market fit - you have patience-market fit. Cut steps, prefill smart defaults, remove choices. Every extra field is a drop-off.]]></description>
     </item>
   </channel>
 </rss>
